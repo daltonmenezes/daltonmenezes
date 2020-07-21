@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/master/assets/image.svg" alt="Illustration of a man walking with coding rain in background" width=350px height=465px/>
+<img align="right" src="https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/master/assets/image.svg" alt="Illustration of a man walking with coding rain in background" width=250px height=365px/>
 
 ### Hi, I'm Dalton 👋
 [![img](https://img.shields.io/badge/support%20me%20on-patreon-00BFA6?style=flat-square)](https://www.patreon.com/daltonmenezes)
