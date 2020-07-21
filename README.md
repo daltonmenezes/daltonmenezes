@@ -1,6 +1,3 @@
-<!--
-<img align="right" src="https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/master/assets/image.svg" alt="Illustration of a man walking with coding rain in background" width=350px height=465px/>
--->
 <a href="https://dribbble.com/shots/1430999-oily-circle-gif">
   <img align="right" src="https://cdn.dribbble.com/users/406059/screenshots/1430999/dribbble_orange.gif" alt="Oil circle animation" width=55% height=55% />
 </a>
