@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 - 🌱 And I'm currently focused to improve my skills on the Javascript ecosystem
 - 🔭 But I'm always open to discover new things
 - 📫 You can reach me at: [my website](https://daltonmenezes.github.io/#contact)
+- 📚 You can find my books on: [Amazon](https://www.amazon.com.br/Dalton-Menezes/e/B07PDP3BP4/ref=dp_byline_cont_pop_ebooks_1)
