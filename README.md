@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💖 Also I'm an open source lover
-- 📫 How to reach me: [website](https://daltonmenezes.github.io/#contact)
+- 💖 Also I'm an open source lover
+- 📫 How to reach me: [website](https://daltonmenezes.github.io/#contact)
