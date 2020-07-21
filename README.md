@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 -->
 
 - 💖 Also I'm an open source lover
-- 📫 How to reach me: [website](https://daltonmenezes.github.io/#contact)
+- 🌱 And I'm currently focused to improve my skills on the Javascript ecosystem
+- 🔭 But I'm always open to discover new things
+- 📫 You can reach me at: [my website](https://daltonmenezes.github.io/#contact)
