@@ -4,7 +4,6 @@
 
 ### Hi, I'm Dalton 👋
 [![img](https://img.shields.io/badge/support%20me%20on-patreon-00BFA6?style=flat-square)](https://www.patreon.com/daltonmenezes)
-[![img](https://img.shields.io/badge/me%20apoie%20no-padrim-00BFA6?style=flat-square)](https://www.padrim.com.br/daltonmenezes)
 
 I'm a software engineer, digital artist and writer.
 
