@@ -3,7 +3,8 @@
 </a>
 
 ### Hi, I'm Dalton 👋
-[![img](https://img.shields.io/badge/support%20me%20on-patreon-00BFA6?style=flat-square)](https://www.patreon.com/daltonmenezes)
+[![img](https://img.shields.io/badge/support%20me%20on-patreon-00BFA6?style=flat-square&logo=patreon)](https://www.patreon.com/daltonmenezes)
+[![img](https://img.shields.io/badge/join-electron%20brazil-00BFA6?style=flat-square&logo=discord)](https://discord.gg/SaBmA5)
 
 I'm a software engineer, digital artist and writer.
 
