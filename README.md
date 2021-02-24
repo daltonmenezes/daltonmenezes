@@ -14,6 +14,6 @@ I'm a software engineer, digital artist and writer.
 - 📫 You can reach me on [my website](https://daltonmenezes.github.io/#contact)
 - 📚 And you can find my books on [Amazon](https://www.amazon.com.br/Dalton-Menezes/e/B07PDP3BP4/ref=dp_byline_cont_pop_ebooks_1)
 
-### 🔥 New
+### 🔥 New
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=daltonmenezes&repo=cra-template-good-start)](https://github.com/daltonmenezes/cra-template-good-start) 
