@@ -1,7 +1,3 @@
-<a href="https://dribbble.com/shots/1430999-oily-circle-gif">
-  <img align="right" src="https://cdn.dribbble.com/users/406059/screenshots/1430999/dribbble_orange.gif" alt="Oil circle animation" width=55% height=55% />
-</a>
-
 ### Hi, I'm Dalton 👋
 [![img](https://img.shields.io/badge/support%20me%20on-patreon-00BFA6?style=flat-square&logo=patreon)](https://www.patreon.com/daltonmenezes)
 [![img](https://img.shields.io/badge/join-electron%20brazil-00BFA6?style=flat-square&logo=discord)](https://discord.gg/qCtM47K)
