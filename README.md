@@ -19,4 +19,4 @@ I'm a software engineer, digital artist and writer.
 
 ### 🔥 New
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=daltonmenezes&repo=cra-template-good-start)](https://github.com/daltonmenezes/cra-template-good-start) 
+
