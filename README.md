@@ -9,6 +9,7 @@
 
 I'm a software engineer, digital artist and writer.
 
+- 🚀 I'm currently working at [@Rocketseat](https://github.com/Rocketseat)
 - 💖 Also I'm an open source lover
 - 🌱 And I'm currently focused to improve my skills on the Javascript ecosystem
 - 🔭 But I'm always open to discover new things
