@@ -1,5 +1,5 @@
-[![img](https://img.shields.io/badge/support%20me%20on-patreon-9466ff?style=flat-square&labelColor=black&logo=patreon)](https://www.patreon.com/daltonmenezes)
-[![img](https://img.shields.io/badge/join-electron%20brazil-9466ff?style=flat-square&labelColor=black&logo=discord)](https://discord.gg/qCtM47K)
+[![img](https://img.shields.io/badge/support%20me%20on-patreon-61ffca?style=for-the-badge&labelColor=1C1E26&logo=patreon)](https://www.patreon.com/daltonmenezes)
+[![img](https://img.shields.io/badge/join-electron%20brazil-61ffca?style=for-the-badge&labelColor=1C1E26&logo=discord)](https://discord.gg/qCtM47K)
 
 # New
 
