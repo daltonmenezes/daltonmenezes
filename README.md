@@ -5,7 +5,7 @@
 
 <img src="https://github.com/daltonmenezes/discord-guardian-action/raw/main/logo.svg" width="20" align="left" />[Discord Guardian Action](https://github.com/daltonmenezes/discord-guardian-action)
 
-🤖 An action that fetches the list of malicious domains on Discord in different providers and creates/updates a JSON file with them from time to time.
+🤖 An action that fetches the list of malicious domains on Discord in<br/>different providers and creates/updates a JSON file with them from time to time.
 
 <hr/>
 
