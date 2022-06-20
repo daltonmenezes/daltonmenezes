@@ -1,5 +1,6 @@
 [![img](https://img.shields.io/badge/support%20me%20on-patreon-61ffca?style=for-the-badge&labelColor=1C1E26&logo=patreon)](https://www.patreon.com/daltonmenezes)
 [![img](https://img.shields.io/badge/join-electron%20brazil-61ffca?style=for-the-badge&labelColor=1C1E26&logo=discord)](https://discord.gg/wuTV99WVva)
+[![img](https://img.shields.io/badge/follow%20me%20on-instagram-61ffca?style=for-the-badge&labelColor=1C1E26&logo=instagram)](https://www.instagram.com/dalton.menezes/)
 
 # New
 
