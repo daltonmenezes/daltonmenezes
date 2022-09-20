@@ -5,6 +5,12 @@
 
 # New
 
+<img src="https://raw.githubusercontent.com/daltonmenezes/electron-router-dom/main/docs/images/undraw_the_world_is_mine_re_j5cr.svg" width="30" align="left" />[Electron Router DOM](https://github.com/daltonmenezes/electron-router-dom)
+
+🌎 A react-router-dom adapter for Electron apps.
+
+<hr/>
+
 <img src="https://github.com/daltonmenezes/electron-app/raw/main/docs/images/bullet.svg" width="20" align="left" />[Electron App](https://github.com/daltonmenezes/electron-app)
 
 💅 A ready-to-go with a well-thought-out structure Electron app boilerplate<br/>with ReactJS, TypeScript, CSS / SASS modules, SWC, Eslint, Prettier and more.
