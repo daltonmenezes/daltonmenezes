@@ -13,7 +13,7 @@
 
 <img src="https://github.com/daltonmenezes/electron-app/raw/main/docs/images/bullet.svg" width="20" align="left" />[Electron App](https://github.com/daltonmenezes/electron-app)
 
-💅 A ready-to-go with a well-thought-out structure Electron app boilerplate<br/>with ReactJS, TypeScript, CSS / SASS modules, SWC, Eslint, Prettier and more.
+💅 A fast and ready-to-go with a well-thought-out structure Electron app boilerplate with ReactJS, TypeScript, CSS / SASS modules, Electron Vite, Eslint, Prettier, GitHub Action releases and more.
 
 <hr/>
 
