@@ -11,7 +11,7 @@
 
 <hr/>
 
-<img src="https://github.com/daltonmenezes/electron-app/raw/main/docs/images/bullet.svg" width="20" align="left" />[Electron App](https://github.com/daltonmenezes/electron-app)
+<img src="https://github.com/daltonmenezes/electron-app/raw/main/docs/images/bullet.svg" width="20" align="left" />[Electron App](https://github.com/daltonmenezes/electron-app) <strong>v2.0.1</strong>
 
 💅 A fast and ready-to-go with a well-thought-out structure Electron app boilerplate with ReactJS, TypeScript, CSS / SASS modules, Electron Vite, Eslint, Prettier, GitHub Action releases and more.
 
