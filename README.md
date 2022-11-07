@@ -4,6 +4,14 @@
 [![img](https://img.shields.io/badge/connect-linkedin-61ffca?style=for-the-badge&labelColor=1C1E26&logo=linkedin)](https://www.linkedin.com/in/daltonmenezes)
 
 # New
+<a href="https://github.com/daltonmenezes/use-exit-intent">
+<img src="https://camo.githubusercontent.com/dbe670ecea36b59366b09cb0f6530898d02409129b1663be0ff31e753a527e07/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f612f61372f52656163742d69636f6e2e737667" width="30" align="center" /> useExitIntent <img alt="releases url" src="https://img.shields.io/npm/v/use-exit-intent.svg?labelColor=1C1E26&color=1C1E26" align="center"/> <img alt="stars" src="https://img.shields.io/github/stars/daltonmenezes/use-exit-intent?labelColor=1C1E26&color=1C1E26" align="center"/>
+</a><br/><br/>
+
+🐠 A React Hook to handle exit intent strategies.
+
+<hr/>
+
 <a href="https://github.com/daltonmenezes/electron-router-dom">
 <img src="https://raw.githubusercontent.com/daltonmenezes/electron-router-dom/main/docs/images/undraw_the_world_is_mine_re_j5cr.svg" width="30" align="center" /> Electron Router DOM <img alt="releases url" src="https://img.shields.io/npm/v/electron-router-dom.svg?labelColor=1C1E26&color=1C1E26" align="center"/> <img alt="stars" src="https://img.shields.io/github/stars/daltonmenezes/electron-router-dom?labelColor=1C1E26&color=1C1E26" align="center"/>
 </a><br/><br/>
