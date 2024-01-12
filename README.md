@@ -13,7 +13,7 @@
 <hr/>
 
 <a href="https://github.com/daltonmenezes/use-exit-intent">
-<img src="https://camo.githubusercontent.com/dbe670ecea36b59366b09cb0f6530898d02409129b1663be0ff31e753a527e07/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f612f61372f52656163742d69636f6e2e737667" width="30" align="center" /> useExitIntent <img alt="releases url" src="https://img.shields.io/npm/v/use-exit-intent.svg?labelColor=1C1E26&color=1C1E26" align="center"/> <img alt="stars" src="https://img.shields.io/github/stars/daltonmenezes/use-exit-intent?labelColor=1C1E26&color=1C1E26" align="center"/>
+<img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="30" align="center" /> useExitIntent <img alt="releases url" src="https://img.shields.io/npm/v/use-exit-intent.svg?labelColor=1C1E26&color=1C1E26" align="center"/> <img alt="stars" src="https://img.shields.io/github/stars/daltonmenezes/use-exit-intent?labelColor=1C1E26&color=1C1E26" align="center"/>
 </a><br/><br/>
 
 🐠 A React Hook to handle exit intent strategies.
