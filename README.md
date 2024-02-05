@@ -1,8 +1,3 @@
-[![img](https://img.shields.io/badge/support%20me-patreon-61ffca?style=for-the-badge&labelColor=1C1E26&logo=patreon)](https://www.patreon.com/daltonmenezes)
-[![img](https://img.shields.io/badge/join-electron%20brazil-61ffca?style=for-the-badge&labelColor=1C1E26&logo=discord)](https://discord.gg/wuTV99WVva)
-[![img](https://img.shields.io/badge/follow-instagram-61ffca?style=for-the-badge&labelColor=1C1E26&logo=instagram)](https://www.instagram.com/dalton.menezes/)
-[![img](https://img.shields.io/badge/connect-linkedin-61ffca?style=for-the-badge&labelColor=1C1E26&logo=linkedin)](https://www.linkedin.com/in/daltonmenezes)
-
 # New
 <a href="https://github.com/daltonmenezes/interprocess">
 <img src="https://user-images.githubusercontent.com/1149845/202180667-72aa7c0f-af32-4bc6-8cb0-7782fde0a3fe.svg" width="30" align="center" /> interprocess <img alt="releases url" src="https://img.shields.io/npm/v/interprocess.svg?labelColor=1C1E26&color=1C1E26" align="center"/> <img alt="stars" src="https://img.shields.io/github/stars/daltonmenezes/interprocess?labelColor=1C1E26&color=1C1E26" align="center"/>
